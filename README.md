@@ -26,4 +26,3 @@ The dataset includes medical data for female patients 👩‍⚕️ who are at l
 
 🟢 Outcome: Target class (0 = No Diabetes, 1 = Diabetes)
 
-This dataset is widely used for building classification models in machine learning 🤖 to help predict diabetes risk! 🧠📈
