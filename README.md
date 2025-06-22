@@ -8,7 +8,7 @@ The goal is to predict whether a patient has diabetes based on several diagnosti
 The dataset includes medical data for female patients 👩‍⚕️ who are at least 21 years old, all of Pima Indian heritage 🌎.
 
 📚 Features Explained:
-🤰 Pregnancies: Number of times pregnant
+🤰 Pregnancies: Number of times the female gets pregnant
 
 🍬 Glucose: Plasma glucose concentration 2 hours after an oral glucose tolerance test
 
